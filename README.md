@@ -80,3 +80,5 @@ In the new account, just drag and drop and test case folders and files to the S3
 4.) Set-up AWS Batch
 
 (in progress)
+
+- request for limit increase t0 1027 for on-demand instances 
