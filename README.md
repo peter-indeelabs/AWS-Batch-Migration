@@ -26,3 +26,10 @@ docker build -t nextflow .
 docker tag nextflow:latest 369256576344.dkr.ecr.us-west-2.amazonaws.com/nextflow:latest
 docker push 369256576344.dkr.ecr.us-west-2.amazonaws.com/nextflow:latest
 ```
+3.) Set-up S3
+
+(in progress)
+
+4.) Set-up AWS Batch
+
+(in progress)
