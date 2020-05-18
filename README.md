@@ -16,6 +16,6 @@ Make sure to setup same parameters as old account
 
 2.) Install dockerfile using Cloud9 service
 
-Choose Ubuntu operating system
+Choose AWS Linux operating system
 
 Modify volume to 20GB
