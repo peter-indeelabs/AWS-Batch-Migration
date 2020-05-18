@@ -9,8 +9,7 @@ Ensure new user account has the following permissions:
 - S3 
 
 ## Steps:
-1.) click on launch/play button to start install the netflow template from AWS site 
-
+1.) click on launch/play button to start install the netflow template from AWS site <br/>
 https://docs.opendata.aws/genomics-workflows/orchestration/nextflow/nextflow-overview/
 
 Make sure to setup same parameters as old account
